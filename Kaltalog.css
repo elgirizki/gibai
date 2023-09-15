@@ -1,0 +1,89 @@
+
+*, html, body {
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px auto;
+   
+    
+    
+ }
+ 
+ 
+ nav {
+     background-color: rgb(27, 27, 27);
+     color: aliceblue;
+   padding: 10px;
+     
+ }
+ nav a:hover {
+     color: rgb(90, 90, 255);
+ }
+ 
+ 
+ nav a {
+   color: azure;
+   padding-inline-start: 30px;
+ }
+ h1 {
+     background-color: rgb(51, 51, 181);
+     color: white;
+     height: 70px;
+     background-image: url(bg\ web2.png);
+     
+    
+     
+ }
+ .menu a {
+    padding: 6px;
+
+}
+.menu a {
+    font-size: 18px;
+  background-color: rgb(19, 30, 193);
+  text-decoration: none;
+  text-transform: none;
+  list-style: none;
+  color: rgb(255, 255, 255);
+  width: 50px;
+  height: 60px;
+  font-weight: bold;
+}
+ .menu a:hover {
+     background-color: rgb(77, 172, 255);
+     color: rgb(41, 41, 41);
+     box-shadow: rgba(0, 0, 0, 0.677) 10px 9px 20px ;
+     
+ }   
+ .menu {
+     background-color: rgb(29, 52, 154);
+     height: 40px;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+ }
+ .menu .katalog {
+     background-color: rgb(77, 172, 255);
+     color: rgb(41, 41, 41);
+     
+ }
+ .isi {
+     background-color: rgb(47, 50, 210);
+     background-image: url(1laut-01.jpg);
+     color: azure;
+     text-align: center;
+     padding-top: 20px;
+     height: auto;
+    
+     
+ }
+ .isi p {
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+ }
+ .isi .kakap , .tongkol , .tenggiri , .salem {
+    width: 200px;
+    padding: 20px;
+ }
+
+ 
